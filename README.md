@@ -8,7 +8,7 @@ Git commands used:
 git init number_guessing_game
 git checkout -b main
 git branch 
-git add status
+git add number_guess.sh
 git status
 git commit -m "Initial commit"
 git commit -m "feat: add query to retrieve user date"
